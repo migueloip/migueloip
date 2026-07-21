@@ -1,177 +1,174 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=40&duration=3000&pause=1000&color=00B386&center=true&vCenter=true&width=1000&lines=Miguel+Angel+Figueroa+Muñoz;Building+AI+Products;Multi-Agent+Systems;Turning+Ridiculous+Ideas+Into+Reality" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:061A14,45:003D32,100:00B386&text=MIGUEL%20FIGUEROA&fontColor=E8FFF8&fontSize=52&fontAlignY=38&desc=AI%20Builder%20%E2%80%A2%20Computer%20Science%20Student%20%E2%80%A2%20Entrepreneur&descAlignY=59&descSize=18&animation=fadeIn" alt="Miguel Figueroa header" />
 
-<h3>
-Computer Science Student • AI Builder • Entrepreneur • Hackathon Addict
-</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=00D9A3&center=true&vCenter=true&repeat=true&random=false&width=900&height=70&lines=%3E+Building+AI+products+from+Chile;%3E+Deploying+multi-agent+systems;%3E+Turning+ridiculous+ideas+into+reality;%3E+Currently%3A+AI+Forecast+Studio" alt="Animated introduction" />
 
-</div>
+<br />
 
-<br>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:081C15,100:00B386&text=Welcome%20to%20my%20GitHub&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=38"/>
-</p>
-
----
-
-# About Me
-
-- First-year Computer Science student from Chile.
-- Passionate about Artificial Intelligence and Multi-Agent Systems.
-- Building products that make complex technology feel simple.
-- Currently obsessed with forecasting, business intelligence and AI agents.
-- Trying to build my first software company before graduating.
-
-<br>
-
-# ~/whoami
-
-```bash
-> Miguel Angel Figueroa Muñoz
-
-Age: 18
-Location: Chile
-OS: Linux
-Coffee: Required
-Hackathons: Yes
-Sleep: Optional
-
-Current Status:
-Deploying AI Data Science Teams...
-```
-
----
-
-# Currently Building
-
-| Project | Description |
-|--------|--------|
-| AI Forecast Studio | AI Executive Data Science Team for Businesses |
-| Middi | Document Intelligence & Compliance Platform |
-| Geo Creator | Procedural 3D City Generation from Real Maps |
-| Multi-Agent AI Systems | Autonomous AI Collaboration Experiments |
-
----
-
-# Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,postgres,supabase,fastapi,docker,linux,git,cpp" />
-
-</p>
-
-<br>
-
-# Interests
-
-```txt
-Artificial Intelligence
-Multi-Agent Systems
-Business Intelligence
-Machine Learning
-Data Science
-Time Series Forecasting
-Software Architecture
-Product Design
-Entrepreneurship
-Open Source
-Linux
-Hackathons
-```
-
----
-
-# GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=migueloip&theme=tokyonight&hide_border=true"
-    alt="GitHub streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=migueloip&theme=tokyonight"
-    alt="GitHub profile details"
-  />
-</p>
-
-# Current Goals
-
-- Build useful AI products.
-- Participate in international hackathons.
-- Learn more about Machine Learning and Statistical Modeling.
-- Contribute to Open Source.
-- Create my first software company.
-- Build things that probably shouldn't fit into a weekend.
-
----
-
-# Favorite Projects
-
-```txt
-AI Forecast Studio
-│
-├── AI Executive Data Science Team
-├── 19 Statistical & ML Models
-├── Multi-Agent Architecture
-├── Forecast Intelligence
-├── Executive Decision Room
-└── Team Meetings & Collaborative Reasoning
-
-
-Middi
-│
-├── Document Intelligence
-├── Compliance Management
-└── Enterprise Workflows
-
-
-Geo Creator
-│
-├── Real World Maps
-├── Procedural Generation
-└── 3D Cities
-```
-
----
-
-# Fun Facts
-
-- Built an AI Executive Data Science Team in 3 days using GPT-5.6 and Codex.
-- I use Linux for almost everything.
-- I enjoy turning ridiculous ideas into working prototypes.
-- I spend more time designing products than sleeping during hackathons.
-- I believe AI should augment people, not replace them.
-
----
-
-# Motto
-
-```txt
-Build stupidly ambitious things.
-
-Then make them work.
-```
-
----
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=migueloip&theme=algolia&no-frame=true&column=7"/>
+<a href="https://github.com/migueloip?tab=followers"><img src="https://img.shields.io/github/followers/migueloip?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=00B386&labelColor=081C15" alt="GitHub followers" /></a><a href="https://github.com/migueloip?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-EXPLORE-00B386?style=for-the-badge&logo=rocket&logoColor=white&labelColor=081C15" alt="Explore projects" /></a><img src="https://komarev.com/ghpvc/?username=migueloip&style=for-the-badge&color=00B386&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
-<br>
+~/whoami
+
+name: Miguel Ángel Figueroa Muñoz
+location: Chile 🇨🇱
+role: Computer Science Student & AI Product Builder
+
+mission: "Build technology that feels like it arrived from the future."
+
+currently:
+  - Deploying AI Data Science Teams
+  - Exploring collaborative multi-agent architectures
+  - Turning real business problems into useful software
+
+system:
+  os: Linux
+  coffee: Required
+  hackathons: Always
+  ambition: Unreasonably high
+
+./current-missions
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🧠 AI Forecast Studio
+
+An AI Executive Data Science Team that analyzes business data, compares statistical and ML models, forecasts what comes next and turns results into executive decisions.
+
+AI Agents Forecasting Data Science Business Intelligence
+
+</td>
+<td width="50%" valign="top">
+
+📁 Middi
+
+A document intelligence and compliance platform for companies managing workers, expirations, alerts and complex enterprise workflows.
+
+Next.js Supabase PostgreSQL Automation
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+🌍 Geo Creator
+
+Procedural 3D city generation from real-world maps, designed for urban simulation, experimentation and interactive environments.
+
+C++ Godot Procedural Generation Geospatial Data
+
+</td>
+<td width="50%" valign="top">
+
+🤖 Multi-Agent Systems
+
+Experiments in autonomous AI collaboration: specialized agents that reason, debate, delegate and solve larger problems as a coordinated team.
+
+LLMs Agent Orchestration Local AI Research
+
+</td>
+</tr>
+</table>
+
+./toolbox --animated
 
 <div align="center">
 
-### Thanks for stopping by!
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,fastapi,cpp&theme=dark&perline=8" alt="Programming technologies" />
 
-*"If tomorrow's technology already exists, I want to be building the day after tomorrow's."*
+<br /><br />
+
+<img src="https://skillicons.dev/icons?i=postgres,supabase,docker,linux,git,github,vscode,godot&theme=dark&perline=8" alt="Tools and platforms" />
+
+</div>
+
+./focus --now
+
+mindmap
+  root((BUILD))
+    Artificial Intelligence
+      Multi-Agent Systems
+      Machine Learning
+      Local AI
+    Data
+      Forecasting
+      Business Intelligence
+      Statistical Modeling
+    Products
+      Software Architecture
+      Product Design
+      Entrepreneurship
+    Exploration
+      Open Source
+      Hackathons
+      Ridiculous Ideas
+
+git stats --global
+
+<div align="center">
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=migueloip&theme=github_dark" alt="Miguel's GitHub statistics" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=migueloip&theme=github_dark" alt="Repositories by language" />
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=migueloip&hide_border=true&background=00000000&ring=00D9A3&fire=00B386&currStreakLabel=00D9A3&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=migueloip&hide_border=true&background=00000000&ring=007F68&fire=00B386&currStreakLabel=007F68" alt="GitHub streak" />
+</picture>
+
+<br />
+
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=migueloip&theme=github_dark" alt="GitHub profile summary" />
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=migueloip&bg_color=00000000&color=8B949E&line=00D9A3&point=FFFFFF&area=true&area_color=00B386&hide_border=true" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=migueloip&bg_color=00000000&color=455A64&line=00B386&point=081C15&area=true&area_color=00B386&hide_border=true" alt="Contribution activity graph" />
+</picture>
+
+</div>
+
+cat principles.md
+
+01  Build first. Learn aggressively. Improve continuously.
+02  Make complex technology feel simple.
+03  AI should augment people — not erase them.
+04  A weekend is enough time to attempt something unreasonable.
+05  Ambition becomes valuable when you ship.
+
+./roadmap --next
+
+Build real products while studying
+
+Deploy a multi-agent AI team
+
+Win an international hackathon
+
+Contribute meaningfully to open source
+
+Launch my first software company
+
+Build something everyone says is impossible
+
+sudo make future
+
+<div align="center">
+
+Build stupidly ambitious things. Then make them work.
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING_THE_FUTURE-00B386?style=for-the-badge&logo=github&logoColor=white&labelColor=081C15" alt="Building the future" />
+<img src="https://img.shields.io/badge/BASED_IN-CHILE-00B386?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=081C15" alt="Based in Chile" />
+
+<br /><br />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1200&color=00B386&center=true&vCenter=true&width=900&lines=Thanks+for+stopping+by.;Let's+build+the+day+after+tomorrow." alt="Closing message" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00B386,100:061A14" alt="Footer" />
 
 </div>
